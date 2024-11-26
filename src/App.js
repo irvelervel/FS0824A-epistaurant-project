@@ -17,7 +17,7 @@ function App() {
         {/* <div class="container"> */}
         <Container>
           {/* <div class="row"> */}
-          <Row className="justify-content-center">
+          <Row className="justify-content-center mt-3">
             {/* <div class="col"> */}
             <Col xs={12} md={8} lg={6}>
               {/* qui metto il carosello */}
